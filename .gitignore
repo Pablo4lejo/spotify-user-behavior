@@ -1,0 +1,17 @@
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+.DS_Store
+Thumbs.db
+
+# Power BI temporary files
+*.tmp
+*.bak
+
+# Environment files
+.env
+.venv/
+venv/
+
+# Jupyter
+*.nbconvert.ipynb
