@@ -60,6 +60,7 @@ To understand how users interact with music by analyzing:
 
 ### Repository Structure
 
+```text
 spotify-user-behavior/
 │
 ├── data/
@@ -77,8 +78,8 @@ spotify-user-behavior/
 │
 ├── README.md
 ├── requirements.txt
-└── gitignore
-
+└── .gitignore
+```
 ---
 
 ### Power BI Data Source Setup
